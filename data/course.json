@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Epistemology"
+    ]
+  ],
+  "legacy_uid": "8c1736a2-ebde-521d-05a2-97972cae037f",
+  "instructors": {
+    "content": [
+      "2581e92b-4c42-9c65-dc0f-b1bd4dd81cf0",
+      "c2ff1985-3a53-6817-6310-f9326c668333"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "66a4ca20-c74d-235f-7bc3-8c889365dd1f",
+    "website": "24-08j-philosophical-issues-in-brain-science-spring-2009"
+  },
+  "course_title": "Philosophical Issues in Brain Science",
+  "course_description": "This course provides an introduction to important philosophical questions about the mind, specifically those that are intimately connected with contemporary psychology and neuroscience. Are our concepts innate or are they acquired by experience? And what does it even mean to call a concept 'innate'? Are 'mental images' pictures in the head? Is color in the mind or in the world? Is the mind nothing more than the brain? Can there be a science of consciousness? The course includes guest lectures by philosophers and cognitive scientists.\n",
+  "department_numbers": [
+    "24",
+    "9"
+  ],
+  "extra_course_numbers": "9.48J",
+  "primary_course_number": "24.08J",
+  "course_image_thumbnail": {
+    "content": "c7eedaea-3f12-e96c-6240-64046d8e0888",
+    "website": "24-08j-philosophical-issues-in-brain-science-spring-2009"
+  },
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes",
+    "Lecture Videos",
+    "Written Assignments"
+  ],
+  "site_uid": "06959b99-0e15-42b2-a482-a98ba2fa5839",
+  "site_short_id": "24.08j-spring-2009",
+  "title": "Course Metadata"
+}
